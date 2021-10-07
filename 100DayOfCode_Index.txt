@@ -1,7 +1,15 @@
 Dia 1 :
-tempo: 1h 15 min
+tempo: 1h 40 min
 
 - Introdução ao JavaScript
 - Estudos sobre terminal do windows
 - Download do Node.js, VsCode, Code Runner
 - Comunicação do VsCode com o GitHub
+- Conceitos de Setença de Codigo
+- Como comentar em Js // /**/
+- Estudo sobre Bloco de Codigo
+    - Definido por { }
+- Introdução ao Conceito de Dados
+    - var
+    - let
+    - String,Int,Double
