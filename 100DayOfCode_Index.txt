@@ -1,0 +1,7 @@
+Dia 1 :
+tempo: 1h 15 min
+
+- Introdução ao JavaScript
+- Estudos sobre terminal do windows
+- Download do Node.js, VsCode, Code Runner
+- Comunicação do VsCode com o GitHub
