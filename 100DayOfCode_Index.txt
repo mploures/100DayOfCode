@@ -1,5 +1,5 @@
 Dia 1 :
-tempo: 1h 40 min
+tempo: 2h 40 min
 
 - Introdução ao JavaScript
 - Estudos sobre terminal do windows
@@ -12,4 +12,35 @@ tempo: 1h 40 min
 - Introdução ao Conceito de Dados
     - var
     - let
-    - String,Int,Double
+    - const
+    
+
+
+
+Dia 2  :
+tempo: 1h 35 min
+
+- Importância de se escolher bons identificadores para suas variaves, funções, arquivos
+    -Escolher bons nomes fazem com que o codigo se torne mais legivel
+- Concatenação de string usando +
+- Tipos de dados basicos no Js:
+    - number: inteiro, ponto flutuante
+    - boolean: Verdadeiro ou Falso
+    - string: texto
+- Algoritmo: Sequencia logica de passos a fim de selocionar uma determinada tarefa
+    - Pode possuir Repetição
+    - Pode possuir uma Decisão
+    - Um mesmo conjuto de passos pode gerar sequencias com resultados diferentes podendo acarretar em bugs
+- O que são estrutura de dados:
+    - Visas organizar e administrar  um conjunto de dados
+    - Lista
+    - FIFO -> fila
+    - LIFO -> pilha
+    - Arvore
+    - Tabela
+- JsFiddle
+- Estudo mais detalhado sobre o tipo number
+- Estudo mais detalhado sobre o tipo string
+    - Template String
+
+
