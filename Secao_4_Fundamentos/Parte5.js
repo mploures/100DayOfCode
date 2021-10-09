@@ -1,3 +1,5 @@
+//Estudo sobre objeto
+
 const prod1={}
 
 prod1.nome='celular'

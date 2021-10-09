@@ -43,7 +43,7 @@ tempo: 1h 35 min
 - Estudo mais detalhado sobre o tipo string
     - Template String
 
-Dia 2  :
+Dia 3  :
 tempo: 30 min 
 
     - Estudo de variaveis booleanas mais detalhado
@@ -53,6 +53,21 @@ tempo: 30 min
     - Estudo da estrutura Objeto
     - Diferenciação entre objeto em js e json
 
+
+Dia 4  :
+tempo: 1 h
+    - Diferença entre null e undefined
+    - Em js a atribuição de objetos é por referência 
+    - Em js a atribuição de variaveis basicas (tipos primitivos) é por valor
+    - Estudo de função : tudo é função
+        - função é um bloco de codigo nomeado que pode ser repetida varias vezes, que recebe um conjunto de parametros de entradas
+          (podendo ser um conjunto vazio) e realiza uma determinada tarefa retonando ou não resultado
+    - Estudo sobre Var e let
+        - todo var é global a menos que seja determinado dentro de função
+        - todo let tem escobo de bloco
+    - função tem consciencia do local onde foi definida
+    - Hoisting
+    - Diferença entre Função e Objetivo
 
 
 

@@ -1,3 +1,5 @@
+//Estudo sobre string
+
 const escola= "Cod3r";
 
 console.log(escola.charAt(4));

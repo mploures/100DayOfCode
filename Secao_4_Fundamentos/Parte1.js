@@ -1,3 +1,5 @@
+// Estudo sobre number
+
 let peso1 =1.1
 let peso2 =2.0
 let peso3= Number(1.45)

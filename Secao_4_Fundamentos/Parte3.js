@@ -1,3 +1,4 @@
+//Estudo sobre boolean
 
 // dados que são considerados verdadeiros em js
 let isAtivo
