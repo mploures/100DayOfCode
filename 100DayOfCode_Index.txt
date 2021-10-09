@@ -43,6 +43,16 @@ tempo: 1h 35 min
 - Estudo mais detalhado sobre o tipo string
     - Template String
 
+Dia 2  :
+tempo: 30 min 
+
+    - Estudo de variaveis booleanas mais detalhado
+    - Estudo de um Array
+        -Array é heterogeno : Fracamente tipada
+        -Pode ter tamanho variados
+    - Estudo da estrutura Objeto
+    - Diferenciação entre objeto em js e json
+
 
 
 
