@@ -1,61 +1,59 @@
 Dia 1 :
-tempo: 2h 40 min
-
-- Introdução ao JavaScript
-- Estudos sobre terminal do windows
-- Download do Node.js, VsCode, Code Runner
-- Comunicação do VsCode com o GitHub
-- Conceitos de Sentença de Código
-- Como comentar em Js // /**/
-- Estudo sobre Bloco de Código
-    - Definido por { }
-- Introdução ao Conceito de Dados
-    - var
-    - let
-    - const
-    
-
+    tempo: 2h 40 min
+    - Introdução ao JavaScript
+    - Estudos sobre terminal do windows
+    - Download do Node.js, VsCode, Code Runner
+    - Comunicação do VsCode com o GitHub
+    - Conceitos de Sentença de Código
+    - Como comentar em Js // /**/
+    - Estudo sobre Bloco de Código
+        - Definido por { }
+    - Introdução ao Conceito de Dados
+        - var
+        - let
+        - const
 
 
 Dia 2  :
-tempo: 1h 35 min
+    tempo: 1h 35 min
 
-- Importância de se escolher bons identificadores para suas variáveis, funções, arquivos
-    -Escolher bons nomes fazem com que o código se torne mais legível
-- Concatenação de string usando +
-- Tipos de dados básicos no Js:
-    - number: inteiro, ponto flutuante
-    - boolean: Verdadeiro ou Falso
-    - string: texto
-- Algoritmo: Sequência lógica de passos a fim de selecionar uma determinada tarefa
-    - Pode possuir Repetição
-    - Pode possuir uma Decisão
-    - Um mesmo conjunto de passos pode gerar sequências com resultados diferentes podendo acarretar em bugs
-- O que são estrutura de dados:
-    - Visas organizar e administrar  um conjunto de dados
-    - Lista
-    - FIFO -> fila
-    - LIFO -> pilha
-    - Árvore
-    - Tabela
-- JsFiddle
-- Estudo mais detalhado sobre o tipo number
-- Estudo mais detalhado sobre o tipo string
-    - Template String
+    - Importância de se escolher bons identificadores para suas variáveis, funções, arquivos
+        -Escolher bons nomes fazem com que o código se torne mais legível
+    - Concatenação de string usando +
+    - Tipos de dados básicos no Js:
+        - number: inteiro, ponto flutuante
+        - boolean: Verdadeiro ou Falso
+        - string: texto
+    - Algoritmo: Sequência lógica de passos a fim de selecionar uma determinada tarefa
+        - Pode possuir Repetição
+        - Pode possuir uma Decisão
+        - Um mesmo conjunto de passos pode gerar sequências com resultados diferentes podendo acarretar em bugs
+    - O que são estrutura de dados:
+        - Visas organizar e administrar  um conjunto de dados
+        - Lista
+        - FIFO -> fila
+        - LIFO -> pilha
+        - Árvore
+        - Tabela
+    - JsFiddle
+    - Estudo mais detalhado sobre o tipo number
+    - Estudo mais detalhado sobre o tipo string
+        - Template String
+
 
 Dia 3  :
-tempo: 30 min 
+    tempo: 30 min 
 
-    - Estudo de variaveis booleanas mais detalhado
-    - Estudo de um Array
-        -Array é heterogeno : Fracamente tipada
-        -Pode ter tamanho variados
-    - Estudo da estrutura Objeto
-    - Diferenciação entre objeto em js e json
+        - Estudo de variaveis booleanas mais detalhado
+        - Estudo de um Array
+            -Array é heterogeno : Fracamente tipada
+            -Pode ter tamanho variados
+      - Estudo da estrutura Objeto
+      - Diferenciação entre objeto em js e json
 
 
 Dia 4  :
-tempo: 1 h
+    tempo: 1 h
     - Diferença entre null e undefined
     - Em js a atribuição de objetos é por referência 
     - Em js a atribuição de variaveis basicas (tipos primitivos) é por valor
@@ -70,4 +68,43 @@ tempo: 1 h
     - Diferença entre Função e Objetivo
 
 
+Dia 5  :
+    tempo: 1 h 45  min
+    - Conceito de Par chave e valor
+    - Conceito de contexto léxico: Espaço de abrangencia de uma variavel
+    - Objeto são um grupo animnhado de pares chave e valor
+    - Acessar variaveis e funções membros de um objeto ou função atraves da notação ponto
+    - Operadores:
+        - Atribuição:
+                    * = -> atribuição comum , guarda um determinado dado em uma variavel;
+                    * += -> atribuição com soma ,guarda um determinado dado em uma variavel somando o valor que já estava contido na variavel anteriormente;
+                    * -= -> atribuição com subtração ,guarda um determinado dado em uma variavel subtraindo o valor que já estava contido na variavel anteriormente;
+                    * *= -> atribuição com produto ,guarda um determinado dado em uma variavel multiplicando o valor que já estava contido na variavel anteriormente;
+                    * /= -> atribuição com divisão ,guarda um determinado dado em uma variavel dividindo o valor que já estava contido na variavel anteriormente;
+                    * %= -> atribuição modular , guarda o modulo de um dado pelo valor que já estava contido na variavel anteriormente;
+        - Destructuring:
+                        * Atraves de objeto
+                        * Atraves de um Array
+        - Aritiméticos : +,-,*,/ e % (modulo) : Operador binario : possui dois operandos
+        - Relacionais : Sempre retorna verdadeiro ou Falso
+                        * == : Compara valores sem se preocupar com o tipo
+                        * === : Compara valores considerando o tipo
+                        *!= : Compara valores sem se preocupar com o tipo 
+                        *!== : Compara valores considerando o tipo
+                        *<   : maior que
+                        *>   : menor que
+                        *<=  : maior igual
+                        *>=  : menor igual
+                        obs: null==undefined => true
+                             undefined==null => false 
+        - Lógicos : ||-> ou 
+                  : && -> e
+                  : ! ->  negação logica
 
+        -Unário: pode ser prefixado ou pósfixados
+                ++ : soma um ao valor
+                -- : subtrai um ao valor
+        - Tenário: Substitui if e else
+        - try,catch,throw
+
+        

@@ -1,4 +1,4 @@
-
+// Estudo mais detalhado da diferença entre var e let
 var a =20
 let b =25
 {
