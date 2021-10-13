@@ -107,4 +107,22 @@ Dia 5  :
         - Tenário: Substitui if e else
         - try,catch,throw
 
+Dia 6  :
+    tempo:0 min
+    -   Trabalhei o dia todo (de 7 as 00)
+
+Dia 7  :
+    tempo:1 h
+    -   Estruturas de controle:
+        - IF
+        - IF ELSE
+        - Switch
+    -  Estruturas de Repetição:
+        - While :  repetição com uma quantidade indeterminadas de vezes
+        - Do While : repetição que obriga um bloco de codigo a ser execultado ao menos uma vezes
+        - For : Repetição de um bloco de codigo um numero fixo de vezes
+        - For in => for(i in range) pode ser usado em objetos e vetores
+        - Break =>quebra uma estrutura de repetição ou no Switch
+        
+
         
