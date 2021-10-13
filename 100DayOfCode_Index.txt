@@ -123,6 +123,7 @@ Dia 7  :
         - For : Repetição de um bloco de codigo um numero fixo de vezes
         - For in => for(i in range) pode ser usado em objetos e vetores
         - Break =>quebra uma estrutura de repetição ou no Switch
+    - Teste do GitHub
         
 
         
