@@ -107,11 +107,8 @@ Dia 5  :
         - Tenário: Substitui if e else
         - try,catch,throw
 
-Dia 6  :
-    tempo:0 min
-    -   Trabalhei o dia todo (de 7 as 00)
 
-Dia 7  :
+Dia 6  :
     tempo:1 h
     -   Estruturas de controle:
         - IF
@@ -124,6 +121,27 @@ Dia 7  :
         - For in => for(i in range) pode ser usado em objetos e vetores
         - Break =>quebra uma estrutura de repetição ou no Switch
     - Teste do GitHub
-        
+
+
+Dia 7  :
+    tempo:1 h e 4 min
+
+    -   Função
+        - funções pode ser trada como um dado
+        - Paradigma funcional
+        - Declaração de funções:
+            - Forma literal / padrão
+            - Função em varivael
+            - Armazenar num array
+            - Armazenar num atributo de um objeto
+            - Passar uma função como parametro de função
+            - Uma função pode retornar/conter uma função
+        - Parametros variaveis
+        - Parametro padrão
+        - this : pode alterar dependendendo de quem chama a função
+            - Utiliza-se o bind para resolver esse problema
+        -Função Arrow: Especialista,Reduzida e com this constante
+
+      
 
         
