@@ -124,7 +124,7 @@ Dia 6  :
 
 
 Dia 7  :
-    tempo:1 h e 4 min
+    tempo:1 h e 10 min
 
     -   Função
         - funções pode ser trada como um dado
