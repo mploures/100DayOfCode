@@ -149,7 +149,18 @@ Dia 8  :
     - Lista de Exercício
 
 
+Dia 9  :
+    tempo:1 h 15min
 
+    - Funções anonimas
+    - Funções que recebe outra como parametro
+    - Callback (ainda não entendi direito)
+    - Função Construtuora :  funciona como uma classe em C# e C++
+    - Funções em Js tem consciência do local onde é declarada e carrega essa informação ao ser execultada
+    - Closure é o escopo criado quando uma função é declarada, esse escopo permite a função acessar e
+     manipular variaves externas à função relacionada com o contexto léxico da função
+    - Funções Factory
+    -Classe x Factury x Função Construtuora
 
 
 
