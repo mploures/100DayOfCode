@@ -142,6 +142,16 @@ Dia 7  :
             - Utiliza-se o bind para resolver esse problema
         -Função Arrow: Especialista,Reduzida e com this constante
 
-      
+
+Dia 8  :
+    tempo:1 h 
+    
+    - Lista de Exercício
+
+
+
+
+
+
 
         
