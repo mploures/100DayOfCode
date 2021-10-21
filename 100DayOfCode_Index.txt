@@ -163,6 +163,25 @@ Dia 9  :
     -Classe x Factury x Função Construtuora
 
 
+Dia 10  :
+    tempo: 45 min
+
+    - Devemos fugir do escopo global
+    - IIFE: Immediately Invoked Function Expression
+    - Historia de Paradigma orientada a objeta
+        - Paradigma não estrutural => Go to
+        - Paradigma estrutural
+        - Paradigma Procedural
+        - Paradigma OO
+            - Principios:
+                - Abstração: simplificação de algo do mundo real para o programa com base nos dados interessantes para o sistema
+                - Encapsulamento: Interface simples onde a implementação não necessariamente ser conhecida
+                - Herança
+                - Polimorfismo
+            - Objeto é uma coleçao dinamica de pares chave e valor
+            - Os valores podem ter objetos internos e arrays
+            - 
+
 
 
         
