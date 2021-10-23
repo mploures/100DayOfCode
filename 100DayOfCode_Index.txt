@@ -183,5 +183,30 @@ Dia 10  :
             - 
 
 
+Dia 11  :
+    tempo: 1h 15 min
 
+    - Criando Objeto:
+        - Usando a notação literal;
+        - Usando Object em JS;
+        - Função construtura;
+        - Função Factorry;
+        - Atraves de um JSON;
+    
+    - Funções do Object:
+        - Object.keys : Retorna as chaves do objeto
+        - Object.values : Retorna os valores do objeto
+        - Object.entries : Retorna um array de pares chaves e valores
+        - Object.defineProperty(entrada1,entrada2,entrada3) : Define uma nova propriedade
+            - entrada1 : objeto
+            - entrada2 : nome da propriedade
+            - entrada3 : caracteristica do propriedade
+                - enumerable : Determina se a propriedade é visivel ou não 
+                - writable   : Determina se a propriedade é alteravel ou não 
+                - value      : Determina o valor da propriedade 
+        - Object.assign : Concatena objetos, caso tenha propriedades com a mesma chave 
+    
+    - Heraça :
+        - Prototipo
+        
         
