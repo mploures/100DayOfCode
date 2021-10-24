@@ -209,4 +209,16 @@ Dia 11  :
     - Heraça :
         - Prototipo
         
+
+Dia 12  :
+    tempo: 2h 15 min
+
+    - Introdução ao R
+    - Configurando o ambiente do visual code para R
+    - Download do interpretador de R para windows
+    - "Hello World"
+    - Input e Output no console
+    - Vectors 
+    
+     
         
